@@ -1,2 +1,2 @@
 # Julia
-Julia lang
+You can find some basic coding in Julia lang
