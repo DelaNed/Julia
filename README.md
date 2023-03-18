@@ -21,4 +21,13 @@ By default, the notebook "dashboard" opens in your home directory (homedir()), b
 ### VS code extension
 https://www.julia-vscode.org/docs/stable/
 
-
+### Run script file
+```
+include("file_name.jl")
+function_name
+```
+for example to run the generate_password.jl, run these commands
+```
+include("generate_password.jl")
+generate_passwords()
+```
