@@ -1,5 +1,6 @@
 # Julia
 You can find some basic code in the Julia programming language.
+The notebooks are based on [JuliaAcademy](https://github.com/JuliaAcademy) Github repository.
 
 ## Installation
 Downlod [Julia programming language](https://julialang.org/downloads/)
